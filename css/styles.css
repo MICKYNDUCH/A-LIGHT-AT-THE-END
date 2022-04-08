@@ -1,10 +1,18 @@
 #topic{
     text-align: center;
+    font-size: xx-large;
+    font-family: fantasy;
 }
 body{
     padding-left: 5%;
     padding-right: 5%;
+    padding-bottom: 5%;
     background-image: url(/images/jerichowall.jpg);
     background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-size: larger;
+
 
 }
+
