@@ -26,3 +26,15 @@ body{
     float: right;
     border-radius: 2%;
 }
+#icons{
+    width: 10%;
+    height: 10%;
+    margin: 1%;
+}
+.icon{
+    display: flex;
+    padding-left: 50%;
+}
+.hide{
+    display: none;
+}
