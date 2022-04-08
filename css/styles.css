@@ -17,6 +17,12 @@ body{
     border-radius: 2%;
 
 }
-q{
-    text-decoration: underline;
+.paragragh{
+    padding-right: 45%;
+}
+.image{
+    width: 35%;
+    height: 60%;
+    float: right;
+    border-radius: 2%;
 }
