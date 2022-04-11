@@ -4,8 +4,8 @@
     font-family: fantasy;
 }
 body{
-    padding-left: 0%;
-    padding-right: 0%;
+    padding-left: 5%;
+    padding-right: 5%;
     padding-bottom: 5%;
     font-size: larger;
     background-color: bisque;
@@ -69,7 +69,11 @@ footer{
 #authors{
     float: right;
     border-radius: 2%;
+    padding-left: 30%;
     
 }
-
+.profile {
+    float: right;
+    border-radius: 20%;
+}
 
