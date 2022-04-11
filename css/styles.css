@@ -1,0 +1,75 @@
+#topic{
+    text-align: left;
+    font-size: medium;
+    font-family: fantasy;
+}
+body{
+    padding-left: 0%;
+    padding-right: 0%;
+    padding-bottom: 5%;
+    font-size: larger;
+    background-color: bisque;
+
+
+}
+#wall{
+    width: 50%;
+    height: 50%;
+    border-radius: 2%;
+
+}
+.paragragh{
+    padding-right: 45%;
+}
+.image{
+    width: 26%;
+    height: 60%;
+    float: right;
+    border-radius: 2%;
+}
+#icons{
+    width: 6%;
+    height: 6%;
+    margin: 1%;
+    border: 0px solid aquamarine;
+    border-radius: 20%;
+}
+.icon{
+    display: flex;
+    padding-left: 40%;
+}
+.hide{
+    display: none;
+}
+#jose{
+    color: brown;
+}
+.navigation{
+    list-style-type: none;
+    overflow: hidden;
+    margin: 0;
+    padding: 0;
+
+    
+}
+.nav{
+     float: right;
+     margin: 5px;
+     padding: 1px;
+     border: 2px solid brown;
+
+}
+#nav{
+    padding: 2px;
+    margin: 2px;
+}
+footer{
+    text-align: center;
+}
+#authors{
+    float: right;
+    border-radius: 2%;
+    
+}
+
+
