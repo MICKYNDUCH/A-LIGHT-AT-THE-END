@@ -28,7 +28,7 @@ body{
     border-radius: 2%;
     
 }
-#icons{
+.icons{
     width: 6%;
     height: 6%;
     margin: 1%;
@@ -42,7 +42,7 @@ body{
 .hide{
     display: none;
 }
-#jose{
+.jose{
     color: brown;
 }
 .navigation{
