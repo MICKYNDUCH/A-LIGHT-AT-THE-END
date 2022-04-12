@@ -4,8 +4,8 @@
     font-family: fantasy;
 }
 body{
-    padding-left: 5%;
-    padding-right: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
     padding-bottom: 5%;
     font-size: larger;
     background-color: bisque;
@@ -22,8 +22,8 @@ body{
     padding-right: 45%;
 }
 .image{
-    width: 500px;
-    height: 200px;
+    width: 38%;
+    height: 20%;
     float: right;
     border-radius: 2%;
     
